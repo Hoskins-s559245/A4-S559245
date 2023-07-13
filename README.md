@@ -16,7 +16,7 @@ Ash Hoskins S559245
 https://github.com/Hoskins-s559245/A4-S559245
 
 ## Lessons Learned
-    This assignment was fantastic! It provided a great opportunity to become more comfortable with json and manipulating objects with relevant information. Understanding and utilizing a powerful API to get meaningful results. Finally being able to conduct an analysis on the lyrics provided with a neat scoring result. I did do 5 songs for the assignment, but I did test many other songs to see how high and low i could make the polarity. I even asked friends to make music suggestions to see how extreme we could make the score. The lowest was -.3225 and the highest was .3184.
+This assignment was fantastic! It provided a great opportunity to become more comfortable with json and manipulating objects with relevant information. Understanding and utilizing a powerful API to get meaningful results. Finally being able to conduct an analysis on the lyrics provided with a neat scoring result. I did do 5 songs for the assignment, but I did test many other songs to see how high and low i could make the polarity. I even asked friends to make music suggestions to see how extreme we could make the score. The lowest was -.3225 and the highest was .3184.
 
 # Requests, JSON, and basic NLP with spaCy
 Complete the tasks in the Python Notebook in this repository.
